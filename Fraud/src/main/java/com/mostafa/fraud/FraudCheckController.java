@@ -1,5 +1,6 @@
 package com.mostafa.fraud;
 
+import com.mostafa.clients.fraud.FraudCheckResponse;
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
